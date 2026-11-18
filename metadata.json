@@ -1,0 +1,6 @@
+{
+  "name": "World Dominion",
+  "description": "Persistent multiplayer geopolitical MMO with a real-world interactive map, player-run economies, parliamentary politics, warfare, and diplomacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
